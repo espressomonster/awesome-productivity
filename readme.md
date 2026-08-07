@@ -30,6 +30,7 @@ Be more thoughtful with your time.
 ## Tools
 
 - [Weekly Planner Template](https://docs.google.com/document/d/15ICuJOQh4TJAgQfCyq7mq4xQJOH-p6Omq3kPvV3hDiw/edit#) - Free planning template for defining and execute
+- [Calendar Week Widget & Calculator](https://thecalendarweek.com/) - Free date & week calculator by ISO and US format, offering weekly PDF planners and embeddable widgets for your Sharepoint or Website.
 - [Todoist](http://todoist.com) - Todo manager with re-occuring todos [freemium].
 - [List item](http://example.com)
 
